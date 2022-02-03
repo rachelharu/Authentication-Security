@@ -10,5 +10,4 @@
 
 users register for an account then they can log in and submit their secrets. on the backend authentication is taking place to encrypt users log in information.
 
-## LIVE PREVIEW
 
